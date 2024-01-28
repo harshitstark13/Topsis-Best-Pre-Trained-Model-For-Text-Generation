@@ -1,9 +1,6 @@
 # Topsis-Best-Pre-Trained-Model-For-Text-Generation
 The "Topsis Best Pre-Trained Model For Text Generation" is a cutting-edge natural language processing (NLP) model, skillfully trained using the TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) methodology. This advanced model excels in generating top-tier text content that aligns precisely with specific criteria and preferences defined by the TOPSIS approach.
 
-![topsis-software-result](https://github.com/harshitstark13/Topsis-Best-Pre-Trained-Model-For-Text-Generation/assets/95651978/9dc04e7d-e9a4-479e-8696-97129c69ac38)
-
-
 Whether you're engaged in document summarization, content recommendation, or developing decision support systems, this pre-trained model emerges as an optimal solution. Its state-of-the-art capabilities empower users to effortlessly generate text content that not only meets but surpasses the stringent standards set by the TOPSIS methodology.
 
 The model's strength lies in its ability to understand and incorporate multifaceted decision-making factors, making it a versatile tool for various NLP applications. By leveraging the model's pre-trained knowledge, users can enhance their text generation tasks on GitHub and beyond. The meticulously crafted training process ensures that the model captures the nuances of language and context, resulting in text outputs of exceptional quality.
